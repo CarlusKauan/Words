@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
         <string-array name="words">
-            <item>Assembly</item>
-            <item>Basic</item>
-            <item>C</item>
-            <item>Delphi</item>
-            <item>Erlang</item>
-            <item>F#</item>
-            <item>GoLang</item>
-            <item>Haskell</item>
-            <item>Ionic</item>
-            <item>Javascript</item>
-            <item>Kotlin</item>
-            <item>Lua</item>
-            <item>MySQL</item>
-            <item>NoSQL</item>
-            <item>Objective-C</item>
-            <item>PHP</item>
-            <item>Query</item>
-            <item>R</item>
-            <item>Sass</item>
-            <item>TypeScript</item>
-            <item>UML</item>
-            <item>VisualBasic</item>
-            <item>Wolfram</item>
-            <item>XML</item>
-            <item>Yorick</item>
-            <item>Z Shell</item>
+            <item>Akamaru</item>
+            <item>Bekkō</item>
+            <item>Chōji Akimichi</item>
+            <item>Deidara</item>
+            <item>Ensui</item>
+            <item>Fugaku Uchiha</item>
+            <item>Gaara</item>
+            <item>Hinata</item>
+            <item>Itachi</item>
+            <item>Jiraiya</item>
+            <item>Kakashi</item>
+            <item>Lee (Rock Lee)</item>
+            <item>Minato</item>
+            <item>Naruto</item>
+            <item>Obito Uchiha</item>
+            <item>Pakkun</item>
+            <item>Quimera Gigante</item>
+            <item>Raikage</item>
+            <item>Sasuke</item>
+            <item>Temari</item>
+            <item>Uchiha Madara</item>
+            <item>vila konohagakure</item>
+            <item>Waraji</item>
+            <item>Personagem não encontrado</item>
+            <item>Yamato</item>
+            <item>Zabuza Momochi</item>
         </string-array>
 </resources>
